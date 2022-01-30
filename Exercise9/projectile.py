@@ -7,7 +7,7 @@ barrel_height = 1
 distance = 0.5
 degree_of_elevation = 80
 initial_velocity = 44
-acceleration = 9.81 ** 2
+acceleration = 9.81
 
 
 
