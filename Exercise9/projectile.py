@@ -1,4 +1,3 @@
-import math
 from math import pi, cos, tan
 
 #height & distance in m velocity in m/s
